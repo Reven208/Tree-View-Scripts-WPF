@@ -1,0 +1,18 @@
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.exe.config
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.exe
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.pdb
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Tree View Scripts.csproj.AssemblyReference.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.g.cs
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\App.g.cs
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_MarkupCompile.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_MarkupCompile.lref
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.baml
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.g.resources
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.Properties.Resources.resources
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Tree View Scripts.csproj.GenerateResource.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Tree View Scripts.csproj.CoreCompileInputs.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Tree View Scripts.csproj.CopyComplete
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.exe
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.pdb

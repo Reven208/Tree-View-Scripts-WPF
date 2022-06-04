@@ -1,0 +1,70 @@
+D:\Testing Proyects\Secure Contain Protect\SCP\bin\Debug\SCP.exe.config
+D:\Testing Proyects\Secure Contain Protect\SCP\bin\Debug\SCP.exe
+D:\Testing Proyects\Secure Contain Protect\SCP\bin\Debug\SCP.pdb
+D:\Testing Proyects\Secure Contain Protect\SCP\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.AssemblyReference.cache
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Home.g.cs
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\MainWindow.g.cs
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.g.cs
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\App.g.cs
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP_Content.g.cs
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP_MarkupCompile.cache
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP_MarkupCompile.lref
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Home.baml
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\MainWindow.baml
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.baml
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP.g.resources
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP.Properties.Resources.resources
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.GenerateResource.cache
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.CoreCompileInputs.cache
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.CopyComplete
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP.exe
+D:\Testing Proyects\Secure Contain Protect\SCP\obj\Debug\SCP.pdb
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.AssemblyReference.cache
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Home.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\MainWindow.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\App.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Home.baml
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\MainWindow.baml
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.baml
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.GenerateResource.cache
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.CoreCompileInputs.cache
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.CopyComplete
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\bin\Debug\WeAreDevs_API.dll
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Hub.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Hub.baml
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_Content.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_MarkupCompile.cache
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_MarkupCompile.lref
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.exe.config
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.exe
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.pdb
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.g.resources
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.Properties.Resources.resources
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.exe
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.pdb
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Configs.g.cs
+C:\Users\Revit\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Configs.baml
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.AssemblyReference.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.g.cs
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\App.g.cs
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_MarkupCompile.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex_MarkupCompile.lref
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.exe
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.pdb
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.exe.config
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.exe
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Fastex.pdb
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Pages\Editor.baml
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.g.resources
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Fastex.Properties.Resources.resources
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.GenerateResource.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.CoreCompileInputs.cache
+C:\Users\Reven\Desktop\Secure Contain Protect\SCP\obj\Debug\Femboy.csproj.CopyComplete
